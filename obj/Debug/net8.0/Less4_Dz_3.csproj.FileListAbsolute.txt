@@ -1,0 +1,14 @@
+D:\Programmes\Less4_Dz_3\bin\Debug\net8.0\Less4_Dz_3.exe
+D:\Programmes\Less4_Dz_3\bin\Debug\net8.0\Less4_Dz_3.deps.json
+D:\Programmes\Less4_Dz_3\bin\Debug\net8.0\Less4_Dz_3.runtimeconfig.json
+D:\Programmes\Less4_Dz_3\bin\Debug\net8.0\Less4_Dz_3.dll
+D:\Programmes\Less4_Dz_3\bin\Debug\net8.0\Less4_Dz_3.pdb
+D:\Programmes\Less4_Dz_3\obj\Debug\net8.0\Less4_Dz_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmes\Less4_Dz_3\obj\Debug\net8.0\Less4_Dz_3.AssemblyInfoInputs.cache
+D:\Programmes\Less4_Dz_3\obj\Debug\net8.0\Less4_Dz_3.AssemblyInfo.cs
+D:\Programmes\Less4_Dz_3\obj\Debug\net8.0\Less4_Dz_3.csproj.CoreCompileInputs.cache
+D:\Programmes\Less4_Dz_3\obj\Debug\net8.0\Less4_Dz_3.dll
+D:\Programmes\Less4_Dz_3\obj\Debug\net8.0\refint\Less4_Dz_3.dll
+D:\Programmes\Less4_Dz_3\obj\Debug\net8.0\Less4_Dz_3.pdb
+D:\Programmes\Less4_Dz_3\obj\Debug\net8.0\Less4_Dz_3.genruntimeconfig.cache
+D:\Programmes\Less4_Dz_3\obj\Debug\net8.0\ref\Less4_Dz_3.dll
